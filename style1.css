@@ -1,0 +1,13 @@
+
+html, body {
+    height: 120%;
+    width: 75%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+.leaflet-container {
+    height: 40%;
+    width: 150%;
+}
